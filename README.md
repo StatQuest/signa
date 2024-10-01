@@ -3,7 +3,7 @@
 
 Links to repositories used in the the book, **[The StatQuest Illustrated Guide to Neural Networks and AI]()**.
 
-- **[Chapter 1: Main Ideas]()**
+- **[Chapter 1: Code Your First Neural Network!!!]()**
 - **[Chapter 2: Backpropagation]()**
 - **[Chapter 3: Multiple Inputs and Outputs]()**
 - **[Chapters 4 and 5: ArgMax(), SoftMax() and Cross Entropy]()**
