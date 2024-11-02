@@ -24,7 +24,7 @@ Links to code used in the the book, **[The StatQuest Illustrated Guide to Neural
   <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" /></a>
     - [Jupyter Notebook](https://github.com/StatQuest/signa/blob/main/chapter_03/chapter_03_multiple_inputs_and_outputs.ipynb)
 
-* **[Chapters 4 and 5: ArgMax(), SoftMax() and Cross Entropy]()**
+* **Chapters 4 and 5: ArgMax(), SoftMax() and Cross Entropy**
     - Google Colab:
     - Lightning Studio:
     - [Jupyter Notebook]()
