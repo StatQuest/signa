@@ -3,7 +3,7 @@
 
 Links to code used in the the book, **[The StatQuest Illustrated Guide to Neural Networks and AI]()**.
 
-- **Chapter 1: Code Your First Neural Network!!!**
+* **Chapter 1: Code Your First Neural Network!!!**
     - Google Colab: <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_01/chapter_01_basic_nn_in_pytorch.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -12,7 +12,7 @@ Links to code used in the the book, **[The StatQuest Illustrated Guide to Neural
 </a>
     - Jupyter Notebooke: https://github.com/StatQuest/signa/blob/main/chapter_01/chapter_01_basic_nn_in_pytorch.ipynb
 
-- **[Chapter 2: Backpropagation]()**
+* **[Chapter 2: Backpropagation]()**
 - **[Chapter 3: Multiple Inputs and Outputs]()**
 - **[Chapters 4 and 5: ArgMax(), SoftMax() and Cross Entropy]()**
 - **[Chapter 6: Convolutional Neural Networks (CNNs)]()**
