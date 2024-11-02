@@ -4,13 +4,15 @@
 Links to code used in the the book, **[The StatQuest Illustrated Guide to Neural Networks and AI]()**.
 
 - **Chapter 1: Code Your First Neural Network!!!**
-- - Google Colab: <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_01/chapter_01_basic_nn_in_pytorch.ipynb">
+    - Google Colab: <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_01/chapter_01_basic_nn_in_pytorch.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
--- Lightning Studio: <a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_01%2Fchapter_01_basic_nn_in_pytorch.ipynb">
+
+    - Lightning Studio: <a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_01%2Fchapter_01_basic_nn_in_pytorch.ipynb">
   <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" />
 </a>
--- Jupyter Notebooke: https://github.com/StatQuest/signa/blob/main/chapter_01/chapter_01_basic_nn_in_pytorch.ipynb
+
+    - Jupyter Notebooke: https://github.com/StatQuest/signa/blob/main/chapter_01/chapter_01_basic_nn_in_pytorch.ipynb
 
 - **[Chapter 2: Backpropagation]()**
 - **[Chapter 3: Multiple Inputs and Outputs]()**
