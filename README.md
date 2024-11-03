@@ -60,8 +60,8 @@ Links to code used in the the book, **[The StatQuest Illustrated Guide to Neural
     - [Jupyter Notebook](https://github.com/StatQuest/signa/blob/main/chapter_10/chapter_10_seq2seq_lstm.ipynb)
 
 * **Chapter 11: Attention**
-    - Google Colab:<a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_11%2Fchapter_11_attention.ipynb">
-  <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" /></a>
+    - Google Colab:<a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_11/chapter_11_attention.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
     - Lightning Studio: <a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_11%2Fchapter_11_attention.ipynb">
   <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" /></a>
     - [Jupyter Notebook](https://github.com/StatQuest/signa/blob/main/chapter_11/chapter_11_attention.ipynb)
