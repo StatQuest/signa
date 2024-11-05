@@ -2,7 +2,7 @@
 
 ----
 
-Links to code used in the the book, **[The StatQuest Illustrated Guide to Neural Networks and AI]()**.
+Links to code used in the the book, **The StatQuest Illustrated Guide to Neural Networks and AI**.
 
 * **Chapter 1: Code Your First Neural Network!!!**
     - Google Colab: <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_01/chapter_01_basic_nn_in_pytorch.ipynb">
