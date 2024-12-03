@@ -7,6 +7,7 @@ Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the
 The physcial book is available on [Amazon]() and [Lulu](). If your more of a digital kind of person, you also purchase a [PDF]().
 
 | Chapter | Notebook |
+| :------ | :------- |
 | 1: Fundamental Concepts in Neural Networks and AI!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_01/chapter_01_basic_nn_in_pytorch.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
     <a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_01%2Fchapter_01_basic_nn_in_pytorch.ipynb">
