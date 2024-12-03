@@ -11,6 +11,20 @@ The physcial book is available on [Amazon]() and [Lulu](). If your more of a dig
 | 01: Fundamental Concepts in Neural Networks and AI!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_01/chapter_01_basic_nn_in_pytorch.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br><a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_01%2Fchapter_01_basic_nn_in_pytorch.ipynb"><img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" /></a> |
 | 02: Optimizing Weights and Biases with Backpropagation!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_02/chapter_02_intro_do_backpropagation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br><a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_02%2Fchapter_02_intro_do_backpropagation.ipynb"><img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" /></a> |
 | 03: Networks with Multiple Inputs and Outputs!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_03/chapter_03_multiple_inputs_and_outputs.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br><a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_03%2Fchapter_03_multiple_inputs_and_outputs.ipynb"><img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" /></a> |
+| 04: Simplifying Outputs with ArgMax and SoftMax!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_04/chapter_04_argmax_and_softmax.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br><a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_04%2Fchapter_04_argmax_and_softmax.ipynb"><img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" /></a> |
+| 05: Speeding Up Training with Cross Entropy!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_04/chapter_04_argmax_and_softmax.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br><a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_04%2Fchapter_04_argmax_and_softmax.ipynb"><img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" /></a> |
+| 06: Image Classification with Convolutional Neural Networks!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/signa/blob/main/chapter_06/chapter_06_convolutional_neural_networks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br><a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2FStatQuest%2Fsigna%2Fblob%2Fmain%2Fchapter_06%2Fchapter_06_convolutional_neural_networks.ipynb">
+  <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" /></a> |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 * **Chapter 1: Code Your First Neural Network!!!**
