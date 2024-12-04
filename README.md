@@ -4,7 +4,7 @@
 
 Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the github repository for my book, **[The StatQuest Illustrated Guide to Neural Networks and AI]()**. My book starts with the basics, showing you how a simple neural network fits a shape to data and then builds from there, one step at a time, until you have mastered the concepts behind today’s revolution in AI. Furthermore, putting the theory into practice is easy because each major concept is paired with a PyTorch tutorial that teaches you how to code each neural network from scratch.
 
-The physcial book is available on [Amazon]() and [Lulu](). If your more of a digital kind of person, you can also purchase a [PDF]().
+**Shameless Self Promotion!!!!** The physcial book is available on [Amazon]() and [Lulu](). If your more of a digital kind of person, you can also purchase a [PDF]().
 
 | Chapter | Google Colab | Lightning Studio
 | :------ | :----------- | :---------------
