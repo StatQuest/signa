@@ -13,7 +13,7 @@ Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the
 
 ----
 
->*Fellow fans of StatQuest should rejoice for this accessible introduction to some of the most important concepts in AI. It reads like a playful comic that gently and visually guides you along the math that powers today's AI revolution* - **Jay Alammar**, author of [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) and [Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) with Maarten Grootendorst
+>*Fellow fans of StatQuest should rejoice for this accessible introduction to some of the most important concepts in AI. It reads like a playful comic that gently and visually guides you along the math that powers today's AI revolution* - **Jay Alammar**, author of [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) and, with Maarten Grootendorst, [Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)
 
 ----
 
