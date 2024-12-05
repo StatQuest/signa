@@ -9,7 +9,7 @@ Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the
 
 **Here's what people are saying about  **[The StatQuest Illustrated Guide to Neural Networks and AI]()****
 
->*This book is a game changer. With simple yet thorough diagrams, useful and relevant code examples, and his usual fun analogies, Starmer one more time manages to demystify the complexity behind neural networks. Topics such as transformers, LSTMs, and attention mechanisms will not be a mystery anymore after reading this gem.* - **Luis Serrano**, Founder and CEO of [Serrano Academy](https://www.youtube.com/@SerranoAcademy)
+>*This book is a game changer. With simple yet thorough diagrams, useful and relevant code examples, and his usual fun analogies, Starmer one more time manages to demystify the complexity behind neural networks. Topics such as transformers, LSTMs, and attention mechanisms will not be a mystery anymore after reading this gem.* - **Luis Serrano**, Founder and CEO of [Serrano Academy](https://www.youtube.com/@SerranoAcademy) and author of [Grokking Machine Learning](https://www.amazon.com/Grokking-Machine-Learning-Luis-Serrano/dp/1617295914)
 
 ----
 
