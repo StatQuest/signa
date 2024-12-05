@@ -2,9 +2,18 @@
 
 ----
 
-Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the github repository for my book, **[The StatQuest Illustrated Guide to Neural Networks and AI]()**. My book starts with the basics, showing you how a simple neural network fits a shape to data and then builds from there, one step at a time, until you have mastered the concepts behind today’s revolution in AI. Furthermore, putting the theory into practice is easy because each major concept is paired with a PyTorch tutorial that teaches you how to code each neural network from scratch.
+Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the github repository for my book, **[The StatQuest Illustrated Guide to Neural Networks and AI]()**. Here are the coding tutorials associated with each chapter. Enjoy!
 
-**Shameless Self Promotion!!!!** The physcial book is available on [Amazon]() and [Lulu](). If your more of a digital kind of person, you can also purchase a [PDF]().
+
+**Shameless Self Promotion!!!!** If you don't already have **[The StatQuest Illustrated Guide to Neural Networks and AI]()**, you should get it! The book starts with the basics, showing you how a simple neural network fits a shape to data and then builds from there, one step at a time, until you have mastered the concepts behind today’s revolution in AI. Furthermore, putting the theory into practice is easy because each major concept is paired with a PyTorch tutorial that teaches you how to code each neural network from scratch.
+
+**Here's what people are saying about  **[The StatQuest Illustrated Guide to Neural Networks and AI]()****
+
+*This book is a game changer. With simple yet thorough diagrams, useful and relevant code examples, and his usual fun analogies, Starmer one more time manages to demystify the complexity behind neural networks. Topics such as transformers, LSTMs, and attention mechanisms will not be a mystery anymore after reading this gem.* - Luis Serrano, Founder and CEO of [Serrano Academy](https://www.youtube.com/@SerranoAcademy)
+
+*Fellow fans of StatQuest should rejoice for this accessible introduction to some of the most important concepts in AI. It reads like a playful comic that gently and visually guides you along the math that powers today's AI revolution" - Jay Alammar, author of [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) and [Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) with Maarten Grootendorst
+
+The physcial copies of the book are available on [Amazon]() and [Lulu](). If your more of a digital kind of person, you can also purchase a [PDF]().
 
 | Chapter | Google Colab | Lightning Studio
 | :------ | :----------- | :---------------
