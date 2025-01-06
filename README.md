@@ -2,12 +2,12 @@
 
 ----
 
-Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the github repository for my book, **[The StatQuest Illustrated Guide to Neural Networks and AI]()**. Here are the coding tutorials associated with each chapter. Enjoy!
+Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the github repository for my book, **[The StatQuest Illustrated Guide to Neural Networks and AI](https://www.amazon.com/dp/B0DRS71QVQ)**. Here are the coding tutorials associated with each chapter. Enjoy!
 
 
-**Shameless Self Promotion!!!!** If you don't already have **[The StatQuest Illustrated Guide to Neural Networks and AI]()**, you should get it! The book starts with the basics, showing you how a simple neural network fits a shape to data and then builds from there, one step at a time, until you have mastered the concepts behind today’s revolution in AI. Furthermore, putting the theory into practice is easy because each major concept is paired with a PyTorch tutorial that teaches you how to code each neural network from scratch.
+**Shameless Self Promotion!!!!** If you don't already have **[The StatQuest Illustrated Guide to Neural Networks and AI](https://www.amazon.com/dp/B0DRS71QVQ)**, you should get it! The book starts with the basics, showing you how a simple neural network fits a shape to data and then builds from there, one step at a time, until you have mastered the concepts behind today’s revolution in AI. Furthermore, putting the theory into practice is easy because each major concept is paired with a PyTorch tutorial that teaches you how to code each neural network from scratch.
 
-**Here's what people are saying about  **[The StatQuest Illustrated Guide to Neural Networks and AI]()****
+**Here's what people are saying about  **[The StatQuest Illustrated Guide to Neural Networks and AI](https://www.amazon.com/dp/B0DRS71QVQ)****
 
 >*This book is a game changer. With simple yet thorough diagrams, useful and relevant code examples, and his usual fun analogies, Starmer one more time manages to demystify the complexity behind neural networks. Topics such as transformers, LSTMs, and attention mechanisms will not be a mystery anymore after reading this gem.* - **Luis Serrano**, Founder and CEO of [Serrano Academy](https://www.youtube.com/@SerranoAcademy) and author of [Grokking Machine Learning](https://www.amazon.com/Grokking-Machine-Learning-Luis-Serrano/dp/1617295914)
 
@@ -17,7 +17,7 @@ Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the
 
 ----
 
-The physcial copies of the book are available on [Amazon]() and [Lulu](). If your more of a digital kind of person, you can also purchase a [PDF]().
+The physcial copies of the book are available on [Amazon](https://www.amazon.com/dp/B0DRS71QVQ). If your more of a digital kind of person, you can also purchase a [PDF](https://statquest.gumroad.com/l/kihdi).
 
 | Chapter | Google Colab | Lightning Studio
 | :------ | :----------- | :---------------
