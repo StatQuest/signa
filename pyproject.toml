@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "my-notebooks"
+version = "0.1.0"
+description = "A containerized Jupyter environment for notebooks"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+torch = "*"
+matplotlib = "*"
+seaborn = "*"
+lightning = "*"
+pandas = "*"
+scikit-learn = "*"
+bertopic = "*"
+datasets = "*"
+datamapplot = "*"
+wordcloud = "*"
+jupyter = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
