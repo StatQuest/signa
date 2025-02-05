@@ -17,6 +17,30 @@ Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the
 
 ----
 
+## 🚀 Quick Setup: Dockerized PyTorch Environment  
+
+### Install Docker (Linux/Ubuntu & WSL2 on Windows 11)  
+Run the following commands to install **Docker, Buildx, and Compose** on **Ubuntu/Linux** (including WSL2 on Windows 11) and launch Jupyter with course dependencies:  
+
+```bash
+# 1
+chmod +x install_docker.sh
+
+# 2
+./install_docker.sh
+
+# 3
+docker build -t pytorch-jupyter .
+
+# 4
+docker run -p 8888:8888 --name jupyter-env pytorch-jupyter
+
+# 5
+# go to this url to see the notebooks in this repo in your Jupyter seutp!: http://localhost:8888/
+```
+
+----
+
 The physcial copies of the book are available on [Amazon](https://www.amazon.com/dp/B0DRS71QVQ). If your more of a digital kind of person, you can also purchase a [PDF](https://statquest.gumroad.com/l/kihdi).
 
 | Chapter | Google Colab | Lightning Studio
