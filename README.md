@@ -58,7 +58,7 @@ docker build -t pytorch-jupyter .
 docker run -p 8888:8888 --name jupyter-env pytorch-jupyter
 
 # 5
-# go to this url to see the notebooks in this repo in your Jupyter seutp!: http://localhost:8888/
+# go to this url to see the notebooks in this repo in your Jupyter setup!: http://localhost:8888/
 ```
 
 
