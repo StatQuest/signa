@@ -18,6 +18,7 @@ datasets = "*"
 datamapplot = "*"
 wordcloud = "*"
 jupyter = "*"
+tensorboard = "*"
 
 [build-system]
 requires = ["poetry-core"]
